@@ -1,0 +1,15 @@
+body{
+background-color: rgb(240, 221, 173);
+}
+.aa{
+    display: flex;
+    justify-content: space-evenly;
+}
+.AA{
+    text-align: center;
+}
+.cc{
+    display: flex;
+    justify-content: space-evenly;
+}
+
