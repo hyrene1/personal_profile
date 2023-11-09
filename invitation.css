@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(105, 105, 41);
+}
+.d{
+    text-align: center;
+}
+.a{
+    display: flex;
+    justify-content: space-evenly;
+}
+.b{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
